@@ -5,7 +5,7 @@
 
 ### Hero [ hero-image ]
 hero:
-  image: "assets/img/idle.png"
+  image: "assets/img/idle1.png"
   image_alt: "이태강"
   before_title: "환영합니다, <b>제 이름은</b>"
   title: "<b>Taegang</b> Lee"
