@@ -148,7 +148,7 @@ testimonials:
   bg_title: "Reviews"
 
   items:
-    - image: "assets/img/testimonials/testi4-2.jpg"
+    - image: "assets/img/team/yj.png"
       name: "김윤중"
       role: "IPS Developer"
       text: "IPS 및 접근 리스트 등 네트워크 구축 프로젝트에서 중요한 역할을 했습니다. "
@@ -158,7 +158,7 @@ testimonials:
       role: "Web Designer"
       text: "계정 및 시스템 관리를 위한 웹페이지 구축 프로젝트에서 중요한 역할을 했습니다. "
 
-    - image: "assets/img/testimonials/testi4-4.jpg"
+    - image: "assets/img/team/th.png"
       name: "이태훈"
       role: "방화벽 구축"
       text: "방화벽 구축 등 네트워크 보안 프로젝트에서 중요한 역할을 했습니다."
