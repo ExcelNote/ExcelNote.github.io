@@ -4,7 +4,7 @@
 - **학번 및 이름**: 
 2420110205, 이태강
 - **블로그 제목**: 
-TAEGANG LEE
+TG's BLOG
 - **블로그 URL**: 
 https://excelnote.github.io/
 ---
