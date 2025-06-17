@@ -123,10 +123,10 @@ resume:
         text: "-"
 
   experience:
-    title: "학과 프로젝트"
+    title: "학과 프로젝트"ㄴ
     items:
       - name: "IPS및 방화벽 적용 네트워크"
-        subname: "팀 '플라잉 더치맨 호' 관리자"
+        subname: "교내 프로젝트 팀 리더"
         period: "2025.03.11 - <b>Present</b>"
         text: "보안 망 구축을 위한 IPS 및 방화벽 적용 네트워크 구축 프로젝트를 수행하였습니다. "
 
