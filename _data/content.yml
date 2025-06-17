@@ -123,7 +123,7 @@ resume:
         text: "-"
 
   experience:
-    title: "학과 프로젝트"ㄴ
+    title: "학과 프로젝트"
     items:
       - name: "IPS및 방화벽 적용 네트워크"
         subname: "교내 프로젝트 팀 리더"
